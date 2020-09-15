@@ -2,6 +2,7 @@ baseURL: 'https://sunny-days.ir'
 languageCode: fa-IR
 title: روزهای آفتابی
 theme: liva-hugo
+publishDir: docs
 summaryLength: '10'
 paginate: 6
 disqusShortname: ''
