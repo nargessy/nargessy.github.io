@@ -1,0 +1,55 @@
+/**
+ * Normal
+ */
+@font-face {
+  font-family: Hejazee;
+  src: url('../fonts/sahel/Sahel.eot');
+  src: url('../fonts/sahel/Sahel.eot?#iefix') format('embedded-opentype'),
+       url('../fonts/sahel/Sahel.woff') format('woff'),
+       url('../fonts/sahel/Sahel.ttf') format('truetype');
+  font-weight: normal;
+}
+@font-face {
+  font-family: Hejazee;
+  src: url('../fonts/sahel/Sahel-Bold.eot');
+  src: url('../fonts/sahel/Sahel-Bold.eot?#iefix') format('embedded-opentype'),
+       url('../fonts/sahel/Sahel-Bold.woff') format('woff'),
+       url('../fonts/sahel/Sahel-Bold.ttf') format('truetype');
+  font-weight: bold;
+}
+@font-face {
+  font-family: Hejazee;
+  src: url('../fonts/sahel/Sahel-Black.eot');
+  src: url('../fonts/sahel/Sahel-Black.eot?#iefix') format('embedded-opentype'),
+       url('../fonts/sahel/Sahel-Black.woff') format('woff'),
+       url('../fonts/sahel/Sahel-Black.ttf') format('truetype');
+  font-weight: 900;
+}
+
+/**
+ * FD
+ */
+ @font-face {
+  font-family: HejazeeFD;
+  src: url('../fonts/sahel/Farsi-Digits/Sahel-FD.eot');
+  src: url('../fonts/sahel/Farsi-Digits/Sahel-FD.eot?#iefix') format('embedded-opentype'),
+       url('../fonts/sahel/Farsi-Digits/Sahel-FD.woff') format('woff'),
+       url('../fonts/sahel/Farsi-Digits/Sahel-FD.ttf') format('truetype');
+  font-weight: normal;
+}
+@font-face {
+  font-family: HejazeeFD;
+  src: url('../fonts/sahel/Farsi-Digits/Sahel-Bold-FD.eot');
+  src: url('../fonts/sahel/Farsi-Digits/Sahel-Bold-FD.eot?#iefix') format('embedded-opentype'),
+       url('../fonts/sahel/Farsi-Digits/Sahel-Bold-FD.woff') format('woff'),
+       url('../fonts/sahel/Farsi-Digits/Sahel-Bold-FD.ttf') format('truetype');
+  font-weight: bold;
+}
+@font-face {
+  font-family: HejazeeFD;
+  src: url('../fonts/sahel/Farsi-Digits/Sahel-Black-FD.eot');
+  src: url('../fonts/sahel/Farsi-Digits/Sahel-Black-FD.eot?#iefix') format('embedded-opentype'),
+       url('../fonts/sahel/Farsi-Digits/Sahel-Black-FD.woff') format('woff'),
+       url('../fonts/sahel/Farsi-Digits/Sahel-Black-FD.ttf') format('truetype');
+  font-weight: 900;
+}
