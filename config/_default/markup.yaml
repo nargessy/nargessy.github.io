@@ -1,0 +1,5 @@
+goldmark:
+  renderer:
+    # Ahmad: Enable using raw html codes inside markup files.
+    unsafe: true
+    xhtml: true

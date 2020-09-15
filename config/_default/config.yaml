@@ -1,0 +1,12 @@
+baseURL: 'https://sunny-days.ir'
+languageCode: fa-IR
+title: روزهای آفتابی
+theme: liva-hugo
+summaryLength: '10'
+paginate: 6
+disqusShortname: ''
+outputs:
+  home:
+    - HTML
+    - RSS
+    - JSON

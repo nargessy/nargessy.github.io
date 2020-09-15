@@ -1,0 +1,53 @@
+plugins:
+  css:
+    - URL: plugins/bootstrap/bootstrap.min.css
+    - URL: plugins/slick/slick.css
+    - URL: plugins/themify-icons/themify-icons.css
+    - URL: plugins/venobox/venobox.css
+  js:
+    - URL: plugins/jQuery/jquery.min.js
+    - URL: plugins/bootstrap/bootstrap.min.js
+    - URL: plugins/slick/slick.min.js
+    - URL: plugins/venobox/venobox.min.js
+    - URL: plugins/search/fuse.min.js
+    - URL: plugins/search/mark.js
+    - URL: plugins/search/search.js
+logo: images/logo.png
+home: Home
+description: This is meta description
+author: Themefisher
+googleAnalitycsID: Your ID
+mobile: 0124857985320
+email: demo@email.com
+location: 'Dhaka, Bangladedsh'
+copyright: >-
+  | copyright &copy; 2020 [Themefisher](https://themefisher.com) All Rights
+  Reserved |
+preloader:
+  enable: false
+  preloader: ''
+search:
+  enable: true
+newsletter:
+  enable: true
+  title: Join Our Newsletter
+  content: >-
+    Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy
+    eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam
+    voluptua. At vero
+social:
+  - title: facebook
+    icon: ti-facebook
+    link: '#'
+  - title: twitter
+    icon: ti-twitter-alt
+    link: '#'
+  - title: instagram
+    icon: ti-instagram
+    link: '#'
+  - title: github
+    icon: ti-github
+    link: '#'
+  - title: linkedin
+    icon: ti-linkedin
+    link: '#'
